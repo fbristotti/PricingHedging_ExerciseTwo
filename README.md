@@ -2,7 +2,7 @@
 
 Segundo exercício da aula de MECAI - Precificação e Hedging
 
-1. Usando o construtor de portfolios hedgeados e simulação de Monte Carlo que vocês ou já tem ou vão poder copiar/adaptar de https://github.com/MarcosCarreira/DermanPapers e o paper do Wilmott, simulem o tipo de resultado que ele obteve:
+1. Usando o construtor de portfolios hedgeados e simulação de Monte Carlo que vocês já tem ou vão poder copiar/adaptar de https://github.com/MarcosCarreira/DermanPapers e o paper do Wilmott, simulem o tipo de resultado que ele obteve:
 
    Output desejado:
    Os dois gráficos de P&L no tempo para os casos de hedge com vol real e vol implícita (páginas 24 e 31)
