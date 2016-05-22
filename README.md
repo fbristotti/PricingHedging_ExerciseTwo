@@ -18,6 +18,9 @@ Segundo exercício da aula de MECAI - Precificação e Hedging
 
 3. Usem as primeiras 20 trilhas e gerem o breakeven smile para cada uma dessas trajetórias (usem 5 strikes para cada smile, -10 delta, -25 delta, ATM, 25 delta, 10 delta). Algo a observar?
 
+   ![alt text](https://github.com/fbristotti/PricingHedging_ExerciseTwo/blob/master/images/breakeven_smile.png "Algo a observar?")
+
+
 4. Usem as primeiras 5 trilhas e para cada trilha gerem o gráfico com o P&L final do portfolio para cada strike em função da vol usada no hedge (usem 5 strikes para cada smile, -10 delta, -25 delta, ATM, 25 delta, 10 delta). Algo a observar?
 
 5. Usando dados reais (2 períodos de 6 meses, um calmo e outro de crise), calcule breakeven smiles de 3 e 6 meses.
